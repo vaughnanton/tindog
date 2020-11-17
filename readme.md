@@ -1,1 +1,1 @@
-An average responsive web template for your average startup - example visible [here](https://vaughnanton.github.io/tindog/)!
+A responsive web template for your average startup - example visible [here](https://vaughnanton.github.io/tindog/)!
